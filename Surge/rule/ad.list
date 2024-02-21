@@ -1,0 +1,25 @@
+# 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
+
+# 广告关键词
+DOMAIN-KEYWORD,adwords
+
+# 广告联盟-国内****************
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com //穿山甲
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com //穿山甲
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com //穿山甲
+DOMAIN-SUFFIX,mobads.baidu.com //百度广告
+DOMAIN-SUFFIX,mi.gdt.qq.com //广点通
+DOMAIN-SUFFIX,sdk.e.qq.com //腾讯广告
+DOMAIN-SUFFIX,open.e.kuaishou.com //快手
+DOMAIN-SUFFIX,open.e.kuaishou.cn //快手
+DOMAIN-SUFFIX,dsp-x.jd.com //京东
+DOMAIN-SUFFIX,sdk.beizi.biz //倍孜
+DOMAIN-SUFFIX,baihemob.com //白盒 金丝雀聚合广告SDK
+DOMAIN-SUFFIX,ssp.mygolbs.com //掌上公交
+DOMAIN-SUFFIX,et.tanx.com //阿里妈妈
+# DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
+# 广告联盟-国外****************
+
+# 垃圾站点****************
+
+# 运营商广告****************
