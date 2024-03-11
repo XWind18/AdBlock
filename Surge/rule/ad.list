@@ -4,7 +4,7 @@
 DOMAIN-KEYWORD,adwords
 
 # 广告联盟-国内****************
-DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com //穿山甲
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com // 穿山甲 Added for: api-access.pangolin-sdk-toutiao.com:443
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com //穿山甲
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com //穿山甲
 DOMAIN-SUFFIX,mobads.baidu.com //百度广告
@@ -18,6 +18,13 @@ DOMAIN-SUFFIX,api-htp.beizi.biz //倍孜
 DOMAIN-SUFFIX,baihemob.com //白盒 金丝雀聚合广告SDK
 DOMAIN-SUFFIX,ssp.mygolbs.com //掌上公交
 DOMAIN-SUFFIX,et.tanx.com //阿里妈妈
+DOMAIN-SUFFIX,ad.ximalaya.com // Added for: ad.ximalaya.com:443
+DOMAIN-SUFFIX,adse.ximalaya.com // Added for: adse.ximalaya.com:443
+DOMAIN-SUFFIX,ad.youdao.com // Added for: ad.youdao.com:443
+
+DOMAIN-SUFFIX,na61-userver-upaas.uc.cn // Added for: https://na61-userver-upaas.uc.cn/message?seq=2
+DOMAIN-SUFFIX,vs4.sz1cu.u3.ucweb.com // Added for: http://vs4.sz1cu.u3.ucweb.com/?ucid=Iske0QL+eEVeUgljfxtwXl9RB2N1G3lAUl0CfHwZeEZaXQZm
+
 # DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
 # 广告联盟-国外****************
 
