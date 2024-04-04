@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,et.tanx.com //阿里妈妈
 DOMAIN-SUFFIX,ad.ximalaya.com // Added for: ad.ximalaya.com:443
 DOMAIN-SUFFIX,adse.ximalaya.com // Added for: adse.ximalaya.com:443
 DOMAIN-SUFFIX,ad.youdao.com // Added for: ad.youdao.com:443
+DOMAIN-SUFFIX,huichuan.sm.cn,REJECT // 汇川
 
 DOMAIN-SUFFIX,na61-userver-upaas.uc.cn // Added for: https://na61-userver-upaas.uc.cn/message?seq=2
 DOMAIN-SUFFIX,vs4.sz1cu.u3.ucweb.com // Added for: http://vs4.sz1cu.u3.ucweb.com/?ucid=Iske0QL+eEVeUgljfxtwXl9RB2N1G3lAUl0CfHwZeEZaXQZm
